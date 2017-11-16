@@ -26,13 +26,13 @@ Si desea ejecutar el entorno de desarrollo para este frontend, será necesario q
 
 ## Contributing
 
-Contributions are welcome via pull requests and issues.  Please see our [contributing guide](https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md) for more details, including a link to join our project Slack.
+Los miembros de HospitalRun estamos agradecidos de su apoyo al proyecto. Es necesario que use GIT mediante pull requests e issues.  Por favor, para mayores detalles revise nuestra [guía de contribuciones](https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md), podrá conectarse a nuestro canal Slack con el enlace apropiado.
 
 ## Installation
-To install the frontend please do the following:
+Para instalar el frontend por favor realice los siguientes pasos:
 
-1. Make sure you have installed [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-2. Make sure you have installed [Node.js](https://nodejs.org/en/download/). Versions 6.0.0 and higher should work. We recommend that you use the most-recent "Active LTS" version of Node.js.
+1. Cerciórese de haber instalado [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+2. Cerciórese de haber instalado [Node.js](https://nodejs.org/en/download/). Debería poder utilizar las versiones 6.0.0 y más nuevas. Nosotros le aconsejamos utilizar la más reciente versión "Active LTS" de Node.js.
 3. Install [ember-cli latest](https://www.npmjs.org/package/ember-cli): `npm install -g ember-cli@latest`.
    Depending on your [npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) you might need root access to install ember-cli.
 4. Install [bower](https://www.npmjs.org/package/bower): `npm install -g bower`.
