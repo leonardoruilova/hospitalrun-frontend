@@ -1,8 +1,10 @@
-# Contributing to the Ember front end for HospitalRun
+# Cómo contribuir al FRont end Ember front end para HospitalRun
 
-Contributions are welcome via pull requests and issues. Before submitting a pull request, please make sure all tests pass by running ```ember test```. This project uses the style guides from Dockyard for [Ember](https://github.com/dockyard/styleguides/blob/master/engineering/ember.md) and [JavaScript](https://github.com/dockyard/styleguides/blob/master/engineering/javascript.md). These style guides are enforced via ESLint, which is one of the linters described in the section on [linters](#linter) below.
+Recibimos contribuciones con gusto a través de pull requests e issues. Previamente al enviado de pull request, es necesario que Ud. haga todas las pruebas a través del comando ```ember test```. 
 
-## Slack / Communication
+En este proyecto utilizamos las guías de estilo provenientes de Dockyard para [Ember](https://github.com/dockyard/styleguides/blob/master/engineering/ember.md) así como las de [JavaScript](https://github.com/dockyard/styleguides/blob/master/engineering/javascript.md). Es necesario también acompañar su trabajo con ESLint, uno de los linters descritos en la sección sobre  [linters](#linter).
+
+## Contacto a través del Canal Slack
 
 Project communication occurs primarily and intentionally via our project [Slack](https://hospitalrun.slack.com/). Those interested in / considering contribution are encouraged to [join](https://hospitalrun-slackin.herokuapp.com/). Project maintainers, contributors, and other community members in the Slack channel are usually available to answer questions, so feel free to ask about anything you need help with in the General channel. 
 
