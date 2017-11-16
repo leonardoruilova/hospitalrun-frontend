@@ -33,10 +33,10 @@ Para instalar el frontend por favor realice los siguientes pasos:
 
 1. Cerciórese de haber instalado [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 2. Cerciórese de haber instalado [Node.js](https://nodejs.org/en/download/). Debería poder utilizar las versiones 6.0.0 y más nuevas. Nosotros le aconsejamos utilizar la más reciente versión "Active LTS" de Node.js.
-3. Install [ember-cli latest](https://www.npmjs.org/package/ember-cli): `npm install -g ember-cli@latest`.
-   Depending on your [npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) you might need root access to install ember-cli.
-4. Install [bower](https://www.npmjs.org/package/bower): `npm install -g bower`.
-5. Clone this repo with `git clone https://github.com/HospitalRun/hospitalrun-frontend`, go to the cloned folder and run `script/bootstrap`.
+3. Instale [ember-cli latest](https://www.npmjs.org/package/ember-cli) con el comando npm en la línea de comandos: `npm install -g ember-cli@latest`.
+   Para instalar ember-cli Ud. podría necesitas acceso de usuario raíz según los [permisos de npm](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
+4. Instale [bower](https://www.npmjs.org/package/bower) con el comando npm en la línea de comandos: `npm install -g bower`.
+5. Clone este repositorio con el comando git en la línea de comandos `git clone https://github.com/HospitalRun/hospitalrun-frontend`, luego diríjase al directorio clonado y ejecute `script/bootstrap`.
   - **Note:** *Windows users must use [Cygwin](http://cygwin.org/). If that is your case, please run the script in the following way to remove trailing `\r` characters:*
   ``` bash
   bash -o igncr script/bootstrap
