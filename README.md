@@ -1,28 +1,28 @@
-HospitalRun frontend
+Frontend para HospitalRun 
 ========
 
-_Ember frontend for [HospitalRun](http://hospitalrun.io/): free software for developing world hospitals_
+_Ember frontend para [HospitalRun](http://hospitalrun.io/): Software Libre para hospitales del mundo en desarrollo_
 
 [![Build Status](https://travis-ci.org/HospitalRun/hospitalrun-frontend.svg?branch=master)](https://travis-ci.org/HospitalRun/hospitalrun-frontend) [![CouchDB](https://img.shields.io/badge/couchdb-1.x-green.svg)](http://couchdb.apache.org/)
 
-To run the development environment for this frontend you will need to have [Git](https://git-scm.com/), [Node.js](https://nodejs.org), [Ember CLI](http://ember-cli.com/), [Bower](http://bower.io/), and [CouchDB](http://couchdb.apache.org/) installed.
+Si desea ejecutar el entorno de desarrollo para este frontend, será necesario que Ud. instale [Git](https://git-scm.com/), [Node.js](https://nodejs.org), [Ember CLI](http://ember-cli.com/), [Bower](http://bower.io/), y [CouchDB](http://couchdb.apache.org/).
 
-## Table of contents
+## Tabla de contenidos
 
-- [Contributing](#contributing)
-- [Installation](#installation)
-- [Running the application](#running-the-application)
-- [Running with Docker](#running-with-docker)
-- [Accessing HospitalRun with Docker Toolbox](#accessing-hospitalrun-with-docker-toolbox)
-- [Accessing HospitalRun with Docker or Docker-compose](#accessing-hospitalrun-with-docker-or-docker-compose)
-- [Troubleshooting your local environment](#troubleshooting-your-local-environment)
-- [Loading sample data](#loading-sample-data)
-- [Testing](#testing)
-- [Contributing](#contributing-1)
-- [Start coding](#start-coding)
-- [Further Reading / Useful Links](#further-reading--useful-links)
+- [Contribuciones](#contributing)
+- [Instalación](#installation)
+- [Ejecución del software](#running-the-application)
+- [Ejecución mediante Docker](#running-with-docker)
+- [Acceso a HospitalRun a través de Docker Toolbox](#accessing-hospitalrun-with-docker-toolbox)
+- [Acceso a HospitalRun a través Docker o Docker-compose](#accessing-hospitalrun-with-docker-or-docker-compose)
+- [Resolución de problemas en su entorno local](#troubleshooting-your-local-environment)
+- [Carga de datos de muestra](#loading-sample-data)
+- [Pruebas](#testing)
+- [Contribuyendo](#contributing-1)
+- [Inicio de la programación](#start-coding)
+- [Lecturas adicionales y enlaces de utilidad](#further-reading--useful-links)
 - [Experimental](#experimental)
-- [Frequently Asked Questions](#frequently-asked-questions)
+- [Preguntas de Uso Frecuente](#frequently-asked-questions)
 
 ## Contributing
 
