@@ -1,4 +1,4 @@
-# Cómo contribuir al FRont end Ember front end para HospitalRun
+# Cómo contribuir al Front end Ember front end para HospitalRun
 ​
 Recibimos contribuciones con gusto a través de pull requests e issues. Previamente al enviado de pull request, es necesario que Ud. haga todas las pruebas a través del comando ```ember test```. 
 ​
@@ -8,7 +8,7 @@ En este proyecto utilizamos las guías de estilo provenientes de Dockyard para [
 ​
 En este proyecto nos comunicamos fundamentalmente a través de nuestro [Canal de Slack para HospitalRun](https://hospitalrun.slack.com/). Quien desee colaborar es invitad a [unirse a nuestra comunidad Slack](https://hospitalrun-slackin.herokuapp.com/). Quienes mantienen el proyecto, quienes contribuyen y oros miembros se encuentran todos en nuestro canal Slack, lugar donde es posible encontrar respuestas. Por favor realice sus consultas y solicite ayuda en el canal general de nuestro Slack. 
 ​
-However, before you ask in Slack "what can I contribute to", be sure to keep reading this document for the answer to your question. :-)
+De todas formas, previamente a que ud. nos consulte en Slack cómo contribuir", por favor lea este documento y busque en él respuesta a sus dudas. :-)
 ​
 Also, please avoid use of the `@everyone` and `@channel` commands in Slack, as you will be sending a notification to nearly 600 people. Just post your question and someone will respond soon.
 ​
