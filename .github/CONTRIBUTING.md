@@ -18,11 +18,11 @@ Generalmente, bastará sólo con realizar su pregunta y esperar a recibir una re
 ​
 ## Qué apoyo nos hace falta
 ​
-Si ud. desea contribuir a nuestroproyecto, la seccion [Qué apoyo nos hace falta](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) es el lugar adecuado para empezar. Los problemas que ocurran son entendidos como bugs, características, mejoras y nuevas tecnologías que han sido seleccionadas y que nosotros deseamos incluir en nuestro proyecto.
+Si ud. desea contribuir a nuestroproyecto, la etiqueta [Qué apoyo nos hace falta](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) es el lugar adecuado para empezar. Los Issues que ocurran son entendidos como bugs, características, mejoras y nuevas tecnologías que han sido seleccionadas y que nosotros deseamos incluir en nuestro proyecto.
 ​
-## In Progress
+## Avances en camino
 ​
-Issues (normally ones that were listed as Help Wanted) where people have committed to working on and delivering the issue are marked with the [In Progress](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) tag. Project maintainers will review status on those issues weekly and - if status changes - move the issue our of In Progress and back to Help Wanted in appropriate.
+Los Issues (comúnmente enumerados en Qué apoyo nos hace falta) que determinadas personas han enviado para su posterior revisión dentro de la etiqueta [Avances en camino](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted). Los mantenedores del proyecto revisarán semanalmente el estado de avance en esos Issues y si el estado de dichos Issues cambia, el moveremos el Issue  de Avances en camino y volveremos a Qué apoyo nos hace falta.
 ​
 ## Needs Requirements
 ​
