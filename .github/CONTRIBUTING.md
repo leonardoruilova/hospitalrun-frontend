@@ -10,7 +10,7 @@ En este proyecto nos comunicamos fundamentalmente a través de nuestro [Canal de
 ​
 De todas formas, previamente a que ud. nos consulte en Slack cómo contribuir", por favor lea este documento y busque en él respuesta a sus dudas. :-)
 ​
-Also, please avoid use of the `@everyone` and `@channel` commands in Slack, as you will be sending a notification to nearly 600 people. Just post your question and someone will respond soon.
+También le solicitamos que evite el uso de los comandos `@everyone` y `@channel` en Slack, ya que ud. enviará una notificación a unas 600 personas. Sólo realice su consulta y alguien responderá pronto.
 ​
 While `@here` is discouraged as it notifies everyone who is active on Slack, if you have an announcement that the channel needs to hear urgently, use can be justified.
 ​
