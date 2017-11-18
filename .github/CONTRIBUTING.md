@@ -4,7 +4,7 @@ Recibimos contribuciones con gusto a través de pull requests e issues. Previame
 ​
 En este proyecto utilizamos las guías de estilo provenientes de Dockyard para [Ember](https://github.com/dockyard/styleguides/blob/master/engineering/ember.md) así como las de [JavaScript](https://github.com/dockyard/styleguides/blob/master/engineering/javascript.md). Es necesario también acompañar su trabajo con ESLint, uno de los linters descritos en la sección sobre  [linters](#linter).
 ​
-## Contacto a través del Canal Slack
+## Contacto a través de nuestro Canal Slack
 ​
 En este proyecto nos comunicamos fundamentalmente a través de nuestro [Canal de Slack para HospitalRun](https://hospitalrun.slack.com/). Quien desee colaborar es invitad a [unirse a nuestra comunidad Slack](https://hospitalrun-slackin.herokuapp.com/). Quienes mantienen el proyecto, quienes contribuyen y oros miembros se encuentran todos en nuestro canal Slack, lugar donde es posible encontrar respuestas. Por favor realice sus consultas y solicite ayuda en el canal general de nuestro Slack. 
 ​
@@ -16,9 +16,9 @@ Si bien `@here` es desaconsejado debido a que ud. notifica a todos quien está a
 ​
 Generalmente, bastará sólo con realizar su pregunta y esperar a recibir una respuesta en el tiempo debido.
 ​
-## Help Wanted
+## Qué apoyo nos hace falta
 ​
-If you're looking for a way to contribute, the [Help Wanted](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) tag is the right place to start. Those issues are intended to be bugs / features / enhancements / technologies that have been vetted and we know we want to include in the project.
+Si ud. desea contribuir a nuestroproyecto, la seccion [Qué apoyo nos hace falta](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) es el lugar adecuado para empezar. Los problemas que ocurran son entendidos como bugs, características, mejoras y nuevas tecnologías que han sido seleccionadas y que nosotros deseamos incluir en nuestro proyecto.
 ​
 ## In Progress
 ​
