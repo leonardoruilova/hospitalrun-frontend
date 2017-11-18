@@ -14,7 +14,7 @@ También le solicitamos que evite el uso de los comandos `@everyone` y `@channel
 ​
 Si bien `@here` es desaconsejado debido a que ud. notifica a todos quien está activoen Slack, s ud. tiene un anuncio urgente quizá pueda justificar su uso.
 ​
-Generally, just posting your question will allow you to recieve a timely answer.
+Generalmente, bastará sólo con realizar su pregunta y esperar a recibir una respuesta en el tiempo debido.
 ​
 ## Help Wanted
 ​
