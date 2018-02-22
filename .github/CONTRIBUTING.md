@@ -1,28 +1,28 @@
-# Cómo contribuir al FRont end Ember front end para HospitalRun
+# Cómo contribuir al Front end Ember front end para HospitalRun
 ​
 Recibimos contribuciones con gusto a través de pull requests e issues. Previamente al enviado de pull request, es necesario que Ud. haga todas las pruebas a través del comando ```ember test```. 
 ​
 En este proyecto utilizamos las guías de estilo provenientes de Dockyard para [Ember](https://github.com/dockyard/styleguides/blob/master/engineering/ember.md) así como las de [JavaScript](https://github.com/dockyard/styleguides/blob/master/engineering/javascript.md). Es necesario también acompañar su trabajo con ESLint, uno de los linters descritos en la sección sobre  [linters](#linter).
 ​
-## Contacto a través del Canal Slack
+## Contacto a través de nuestro Canal Slack
 ​
 En este proyecto nos comunicamos fundamentalmente a través de nuestro [Canal de Slack para HospitalRun](https://hospitalrun.slack.com/). Quien desee colaborar es invitad a [unirse a nuestra comunidad Slack](https://hospitalrun-slackin.herokuapp.com/). Quienes mantienen el proyecto, quienes contribuyen y oros miembros se encuentran todos en nuestro canal Slack, lugar donde es posible encontrar respuestas. Por favor realice sus consultas y solicite ayuda en el canal general de nuestro Slack. 
 ​
-However, before you ask in Slack "what can I contribute to", be sure to keep reading this document for the answer to your question. :-)
+De todas formas, previamente a que ud. nos consulte en Slack cómo contribuir", por favor lea este documento y busque en él respuesta a sus dudas. :-)
 ​
-Also, please avoid use of the `@everyone` and `@channel` commands in Slack, as you will be sending a notification to nearly 600 people. Just post your question and someone will respond soon.
+También le solicitamos que evite el uso de los comandos `@everyone` y `@channel` en Slack, ya que ud. enviará una notificación a unas 600 personas. Sólo realice su consulta y alguien responderá pronto.
 ​
-While `@here` is discouraged as it notifies everyone who is active on Slack, if you have an announcement that the channel needs to hear urgently, use can be justified.
+Si bien `@here` es desaconsejado debido a que ud. notifica a todos quien está activoen Slack, s ud. tiene un anuncio urgente quizá pueda justificar su uso.
 ​
-Generally, just posting your question will allow you to recieve a timely answer.
+Generalmente, bastará sólo con realizar su pregunta y esperar a recibir una respuesta en el tiempo debido.
 ​
-## Help Wanted
+## Qué apoyo nos hace falta
 ​
-If you're looking for a way to contribute, the [Help Wanted](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) tag is the right place to start. Those issues are intended to be bugs / features / enhancements / technologies that have been vetted and we know we want to include in the project.
+Si ud. desea contribuir a nuestroproyecto, la etiqueta [Qué apoyo nos hace falta](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) es el lugar adecuado para empezar. Los Issues que ocurran son entendidos como bugs, características, mejoras y nuevas tecnologías que han sido seleccionadas y que nosotros deseamos incluir en nuestro proyecto.
 ​
-## In Progress
+## Avances en camino
 ​
-Issues (normally ones that were listed as Help Wanted) where people have committed to working on and delivering the issue are marked with the [In Progress](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted) tag. Project maintainers will review status on those issues weekly and - if status changes - move the issue our of In Progress and back to Help Wanted in appropriate.
+Los Issues (comúnmente enumerados en Qué apoyo nos hace falta) que determinadas personas han enviado para su posterior revisión dentro de la etiqueta [Avances en camino](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted). Los mantenedores del proyecto revisarán semanalmente el estado de avance en esos Issues y si el estado de dichos Issues cambia, el moveremos el Issue  de Avances en camino y volveremos a Qué apoyo nos hace falta.
 ​
 ## Needs Requirements
 ​
