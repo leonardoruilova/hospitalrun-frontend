@@ -1,38 +1,38 @@
-HospitalRun frontend
+Frontend para HospitalRun 
 ========
 
-_Ember frontend for [HospitalRun](http://hospitalrun.io/): free software for developing world hospitals_
+_Ember frontend para [HospitalRun](http://hospitalrun.io/): Software Libre para hospitales del mundo en desarrollo_
 
 [![Build Status](https://travis-ci.org/HospitalRun/hospitalrun-frontend.svg?branch=master)](https://travis-ci.org/HospitalRun/hospitalrun-frontend) [![CouchDB](https://img.shields.io/badge/couchdb-1.x-green.svg)](http://couchdb.apache.org/)
 
-To run the development environment for this frontend you will need to have [Git](https://git-scm.com/), [Node.js](https://nodejs.org), [Ember CLI](http://ember-cli.com/), [Bower](http://bower.io/), and [CouchDB](http://couchdb.apache.org/) installed.
+Si desea ejecutar el entorno de desarrollo para este frontend, será necesario que Ud. instale [Git](https://git-scm.com/), [Node.js](https://nodejs.org), [Ember CLI](http://ember-cli.com/), [Bower](http://bower.io/), y [CouchDB](http://couchdb.apache.org/).
 
-## Table of contents
+## Tabla de contenidos
 
-- [Contributing](#contributing)
-- [Installation](#installation)
-- [Running the application](#running-the-application)
-- [Running with Docker](#running-with-docker)
-- [Accessing HospitalRun with Docker Toolbox](#accessing-hospitalrun-with-docker-toolbox)
-- [Accessing HospitalRun with Docker or Docker-compose](#accessing-hospitalrun-with-docker-or-docker-compose)
-- [Troubleshooting your local environment](#troubleshooting-your-local-environment)
-- [Loading sample data](#loading-sample-data)
-- [Testing](#testing)
-- [Contributing](#contributing-1)
-- [Start coding](#start-coding)
-- [Further Reading / Useful Links](#further-reading--useful-links)
+- [Contribuciones](#contributing)
+- [Instalación](#installation)
+- [Ejecución del software](#running-the-application)
+- [Ejecución mediante Docker](#running-with-docker)
+- [Acceso a HospitalRun a través de Docker Toolbox](#accessing-hospitalrun-with-docker-toolbox)
+- [Acceso a HospitalRun a través Docker o Docker-compose](#accessing-hospitalrun-with-docker-or-docker-compose)
+- [Resolución de problemas en su entorno local](#troubleshooting-your-local-environment)
+- [Carga de datos de muestra](#loading-sample-data)
+- [Pruebas](#testing)
+- [Contribuyendo](#contributing-1)
+- [Inicio de la programación](#start-coding)
+- [Lecturas adicionales y enlaces de utilidad](#further-reading--useful-links)
 - [Experimental](#experimental)
-- [Frequently Asked Questions](#frequently-asked-questions)
+- [Preguntas de Uso Frecuente](#frequently-asked-questions)
 
 ## Contributing
 
-Contributions are welcome via pull requests and issues.  Please see our [contributing guide](https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md) for more details, including a link to join our project Slack.
+Los miembros de HospitalRun estamos agradecidos de su apoyo al proyecto. Es necesario que use GIT mediante pull requests e issues.  Por favor, para mayores detalles revise nuestra [guía de contribuciones](https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md), podrá conectarse a nuestro canal Slack con el enlace apropiado.
 
 ## Installation
-To install the frontend please do the following:
+Para instalar el frontend por favor realice los siguientes pasos:
 
-1. Make sure you have installed [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-2. Make sure you have installed [Node.js](https://nodejs.org/en/download/). Versions 6.0.0 and higher should work. We recommend that you use the most-recent "Active LTS" version of Node.js.
+1. Cerciórese de haber instalado [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+2. Cerciórese de haber instalado [Node.js](https://nodejs.org/en/download/). Debería poder utilizar las versiones 6.0.0 y más nuevas. Nosotros le aconsejamos utilizar la más reciente versión "Active LTS" de Node.js.
 3. Install [ember-cli latest](https://www.npmjs.org/package/ember-cli): `npm install -g ember-cli@latest`.
    Depending on your [npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) you might need root access to install ember-cli.
 4. Install [bower](https://www.npmjs.org/package/bower): `npm install -g bower`.
